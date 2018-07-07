@@ -20,5 +20,5 @@ dotnet add package Moq
 ionic start 
 
 
-##publish  api project to deploy to azure
+## publish  api project to deploy to azure
 dotnet publish
