@@ -11,7 +11,8 @@ dotnet new xunit -n workshopep28.test
 
 ## add reference from api to unitTest project
 dotnet add workshopep28.test/workshopep28.test.csproj reference workshopep28.api/workshopep28.api.csproj  
-##add package reference to unitTest project  
+
+## add package reference to unitTest project  
 dotnet add package FluentAssertions  
 dotnet add package Moq  
 
