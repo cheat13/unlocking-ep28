@@ -3,7 +3,7 @@
 # CommandGuildline
 
 ## create api project
-dotnet new
+dotnet new  
 dotnet new webapi -n workshopep28.api
 
 ## create unitTest project
